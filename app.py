@@ -6,8 +6,8 @@ import uuid
 
 # --- 1. AWS CONFIGURATION ---
 # Fill these with your details from the AWS Console
-AGENT_ID = 'GX6RRUIHGF' 
-AGENT_ALIAS_ID = 'QURULFKLXS' 
+AGENT_ID = 'ad' 
+AGENT_ALIAS_ID = 'sdf' 
 REGION = 'us-east-1' # e.g., us-east-1
 
 
